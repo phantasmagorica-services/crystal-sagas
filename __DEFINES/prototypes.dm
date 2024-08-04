@@ -1,0 +1,3 @@
+//? namespaces - DO NOT TOUCH THESE WITHOUT REASON
+
+#define PROTOTYPE_NAMESPACE_STATUS_EFFECT "status_effect"

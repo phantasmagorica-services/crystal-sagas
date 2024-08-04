@@ -1,0 +1,4 @@
+obj
+	Housing
+		House
+		Fortress

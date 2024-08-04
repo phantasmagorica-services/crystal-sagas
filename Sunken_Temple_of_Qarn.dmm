@@ -1,0 +1,209 @@
+"aa" = (/obj/map/Terrain2/WallM,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"ab" = (/obj/map/Waterfall1,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"ac" = (/obj/map/Terrain2/WallM,/obj/map/LightingEffects/Updark,/obj/map/Terrain2/WallM,/turf/map/Waterinterior/Water1,/area)
+"ad" = (/obj/map/LightingEffects/Updark,/turf/map/SDV/Walls/Wall3,/area)
+"ae" = (/obj/map/StairCaseStone/BotL,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"af" = (/obj/map/StairCaseStone/BotM,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"ag" = (/obj/map/StairCaseStone/BotR,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"ah" = (/obj/map/Terrain2/WallL,/turf/map/Waterinterior/Water1,/area)
+"ai" = (/obj/map/Terrain2/WallM,/turf/map/Waterinterior/Water1,/area)
+"aj" = (/obj/map/Waterfall1,/turf/map/Waterinterior/Water1,/area)
+"ak" = (/obj/map/Terrain2/WallR,/obj/map/Terrain2/WallM,/turf/map/Waterinterior/Water1,/area)
+"al" = (/turf/map/SDV/Walls/Wall3,/area)
+"am" = (/obj/map/StairCaseStone/MidL,/turf/map/Waterinterior/Water1,/area)
+"an" = (/obj/map/StairCaseStone/Mid,/turf/map/Waterinterior/Water1,/area)
+"ao" = (/obj/map/StairCaseStone/MidR,/turf/map/Waterinterior/Water1,/area)
+"ap" = (/obj/map/Terrain2/BaseM,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"aq" = (/obj/map/Terrain2/BaseL,/turf/map/Waterinterior/Water1,/area)
+"ar" = (/obj/map/Terrain2/WallR,/turf/map/Waterinterior/Water1,/area)
+"as" = (/obj/map/Terrain2/BaseR,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"at" = (/obj/map/Effects/intodark,/turf/map/SDV/Walls/Wall3,/area)
+"au" = (/obj/map/Effects/intodark,/obj/map/Indoordec/Candlethinglit,/turf/map/SDV/Walls/Wall3,/area)
+"av" = (/obj/map/StairCaseStone/MidL,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"aw" = (/obj/map/StairCaseStone/Mid,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"ax" = (/obj/map/StairCaseStone/MidR,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"ay" = (/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"az" = (/turf/map/Waterinterior/Water1,/area)
+"aA" = (/obj/map/Waterfall1/bottom,/turf/map/Waterinterior/Water1,/area)
+"aB" = (/obj/map/Terrain2/BaseR,/turf/map/Waterinterior/Water1,/area)
+"aC" = (/obj/map/LightingEffects/Updark,/turf/map/Tiles/Tile10,/area)
+"aD" = (/obj/map/LightingEffects/Updark,/obj/map/Indoordec/Candlething,/turf/map/Tiles/Tile10,/area)
+"aE" = (/obj/map/StairCaseStone/TopL,/turf/map/Tiles/Tile10,/area)
+"aF" = (/turf/map/Tiles/Tile12,/area)
+"aG" = (/obj/map/StairCaseStone/TopR,/turf/map/Tiles/Tile10,/area)
+"aH" = (/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"aI" = (/turf/map/Tiles/Tile10,/area)
+"aJ" = (/obj/map/LightingEffects/Updark,/obj/map/Effects/intodark,/turf/map/Tiles/Tile10,/area)
+"aK" = (/obj/map/Colums/Stonetop,/turf/map/Tiles/Tile10,/area)
+"aL" = (/obj/map/Foliage/Puddle2,/turf/map/Tiles/Tile10,/area)
+"aM" = (/obj/map/Foliage/Puddle2,/obj/map/Colums/Stonemid,/turf/map/Tiles/Tile10,/area)
+"aN" = (/obj/map/Colums/Stonemid,/turf/map/Tiles/Tile10,/area)
+"aO" = (/obj/map/Shells/shell3,/turf/map/Tiles/Tile10,/area)
+"aP" = (/obj/map/Shells/shell2,/turf/map/Tiles/Tile10,/area)
+"aQ" = (/obj/map/Colums/Stonebot,/turf/map/Tiles/Tile10,/area)
+"aR" = (/obj/map/Dabigboistatue,/turf/map/Waterinterior/Water1,/area)
+"aS" = (/obj/map/Foliage/Puddle2,/turf/map/Tiles/Tile12,/area)
+"aT" = (/obj/map/Effects/intodark,/turf/map/Tiles/Tile10,/area)
+"aU" = (/obj/map/Colums/Stonetop,/turf/map/Tiles/Tile12,/area)
+"aV" = (/obj/map/Foliage/Rock4,/turf/map/Waterinterior/Water1,/area)
+"aW" = (/obj/map/Shells/shell4,/turf/map/Tiles/Tile12,/area)
+"aX" = (/obj/map/Shells/allshells,/turf/map/Tiles/Tile10,/area)
+"aY" = (/obj/map/Terrain2/Spiretop,/turf/map/Waterinterior/Water1,/area)
+"aZ" = (/obj/map/Terrain2/Spirebase,/turf/map/Waterinterior/Water1,/area)
+"ba" = (/obj/map/Terrain2/Spirebot,/turf/map/Waterinterior/Water1,/area)
+"bb" = (/obj/map/Colums/Stonebot,/obj/map/Indoordec/Candlethinglit,/turf/map/Tiles/Tile10,/area)
+"bc" = (/obj/map/Foliage/Rock1,/turf/map/Waterinterior/Water1,/area)
+"bd" = (/obj/map/Indoordec/Candlething,/turf/map/Tiles/Tile10,/area)
+"be" = (/obj/map/LightingEffects/Updark,/turf/map/Tiles/Tile12,/area)
+"bf" = (/obj/map/Foliage/Rock5,/turf/map/Waterinterior/Water1,/area)
+"bg" = (/obj/map/Foliage/Rock5R,/turf/map/Waterinterior/Water1,/area)
+"bh" = (/obj/map/Terrain2/Spiretopdirt,/turf/map/Waterinterior/Water1,/area)
+"bi" = (/obj/map/Foliage/Rock3,/turf/map/Waterinterior/Water1,/area)
+"bj" = (/obj/map/Colums/Stonetop,/turf/map/Waterinterior/Water1,/area)
+"bk" = (/obj/map/Colums/Stonemid,/turf/map/Waterinterior/Water1,/area)
+"bl" = (/obj/map/Colums/Stonebot,/turf/map/Waterinterior/Water1,/area)
+"bm" = (/obj/map/Indoordec/Skull,/turf/map/Tiles/Tile10,/area)
+"bn" = (/obj/map/Colums/Stonemid,/obj/map/Effects/intodark,/turf/map/SDV/Walls/Wall3,/area)
+"bo" = (/obj/map/LightingEffects/Updark,/obj/map/Indoordec/Armourstandtop,/turf/map/Tiles/Tile10,/area)
+"bp" = (/obj/map/Indoordec/Armourstand,/turf/map/Tiles/Tile10,/area)
+"bq" = (/obj/map/Indoordec/Emptyracktop,/turf/map/Tiles/Tile10,/area)
+"br" = (/obj/map/Indoordec/Emptyrackbot,/turf/map/Tiles/Tile10,/area)
+"bs" = (/obj/map/Indoordec/Spearracktop,/turf/map/Tiles/Tile10,/area)
+"bt" = (/obj/map/Indoordec/Spearrackbot,/turf/map/Tiles/Tile10,/area)
+"bu" = (/obj/map/Monument/TopL,/turf/map/Tiles/Tile10,/area)
+"bv" = (/obj/map/Monument/TopR,/turf/map/Tiles/Tile10,/area)
+"bw" = (/obj/map/Monument/BotL,/turf/map/Tiles/Tile10,/area)
+"bx" = (/obj/map/Monument/BotR,/turf/map/Tiles/Tile10,/area)
+"by" = (/obj/map/Effects/black,/turf/map/Waterinterior/Water1,/area)
+"bz" = (/obj/map/Foliage/Rock2,/turf/map/Waterinterior/Water1,/area)
+"bA" = (/obj/map/LightingEffects/Updark,/obj/map/Outdoordecs/Chest3,/turf/map/Tiles/Tile10,/area)
+"bB" = (/obj/map/Indoordec/CoinStack,/turf/map/Tiles/Tile10,/area)
+"bC" = (/obj/map/Terrain2/Spirebase,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"bD" = (/obj/map/Outdoordecs/Chest3,/turf/map/Tiles/Tile10,/area)
+"bE" = (/obj/map/Indoordec/Candlethinglit,/turf/map/Tiles/Tile10,/area)
+"bF" = (/obj/map/Colums/Stonetop,/turf/map/SDV/Walls/Wall3,/area)
+"bG" = (/obj/map/Indoordec/Litlamptop,/turf/map/SDV/Walls/Wall3,/area)
+"bH" = (/obj/map/Effects/intodark,/obj/map/Colums/Stonemid,/turf/map/SDV/Walls/Wall3,/area)
+"bI" = (/obj/map/Effects/intodark,/obj/map/Indoordec/Litlamp,/turf/map/SDV/Walls/Wall3,/area)
+"bJ" = (/turf/map/Tiles/Tile30,/area)
+"bK" = (/obj/map/Monument/TopR,/turf/map/Tiles/Tile12,/area)
+"bL" = (/obj/map/XLicons/Crystal,/turf/map/Waterinterior/Water1,/area)
+"bM" = (/obj/map/Monument/BotL,/turf/map/Tiles/Tile12,/area)
+"bN" = (/obj/map/Monument/BotR,/turf/map/Tiles/Tile12,/area)
+"bO" = (/obj/map/Colums/Stonemid,/turf/map/Tiles/Tile12,/area)
+"bP" = (/obj/map/Effects/intodark,/turf/map/Tiles/Tile12,/area)
+"bQ" = (/obj/map/Shells/shell4,/turf/map/Tiles/Tile10,/area)
+"bR" = (/obj/map/Terrain2/WallM,/obj/map/Terrain2/Spiretopdirt,/turf/map/Waterinterior/Water1,/area)
+"bS" = (/obj/map/Terrain2/WallM,/obj/map/Terrain2/Spirebot,/turf/map/Waterinterior/Water1,/area)
+"bT" = (/obj/map/Terrain2/WallM,/obj/map/Terrain2/Spirebase,/turf/map/Waterinterior/Water1,/area)
+"bU" = (/obj/map/Terrain2/WallM,/obj/map/Effects/intodark,/turf/map/Waterinterior/Water1,/area)
+"bV" = (/obj/map/Terrain2/TopTL,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"bW" = (/obj/map/Terrain2/TopTM,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"bX" = (/obj/map/Terrain2/TopTR,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+"bY" = (/obj/map/Terrain2/BaseM,/obj/map/LightingEffects/Updark,/turf/map/Waterinterior/Water1,/area)
+
+(1,1,1) = {"
+aaaaaaababababababababababababaaaaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadadadadadadaeafafagadadadadadadaaaaaaaaaaaaaaaaaa
+ahaiaiajajajajajajajajajajajajaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaialalalalalalalalamananaoalalalalalalalalapapapapapapap
+aqahaiajajajajajajajajajajajajaiarapapapapapapapapapapapapapapapapapapapapapapapapasalalalatatatatatauavawawaxauatatatatatalalalayayayayayay
+azaqaiaAaAaAaAaAaAaAaAaAaAaAaAaiaBayayayayayayayayayayayayayayayayayayayayayayayayalalalataCaCaCaCaCaDaEaFaFaGaDaCaCaCaCaCatalalalaHazazazaz
+azazalaCaCaCaCaCaCaCaCaCaCaCaCalazazazazazazazazazazazazazazazazazazazazazazazazalalalataCaIaIaIaIaIaIaIaFaFaIaIaIaIaIaIaIaCatalalalazazazaz
+azalataIaIaIaIaFaIaIaFaIaIaIaIatalazazazazazazazazazazazazazazazazazazazazazazaHalalataJaIaIaIaIaIaKaIaIaFaFaIaIaKaIaIaLaIaIaCatalalaHazazaz
+alataCaIaIaIaIaFaIaIaFaIaIaIaIaCatalazazazazazazazazazazazazazazazazazazazazazalalalaCaIaIaIaIaIaIaMaIaIaFaFaIaIaNaIaIaIaIaIaIaCalalalazazaz
+alaCaIaIaIaOaIaFaIaIaFaIaPaIaIaIaCalazazazazazazazazazazazazazazazazazazazazazalalalaIayayayayayaIaQaIaIaFaFaIaIaQaIayayayayayaIalalalazazaz
+alaIaIaIaFaIaIaFaFaFaFaIaIaFaIaIaIalazazazazazazazazazazazazazazazazazazazazazalalalaIazazazazazaIaIaIaFaFaFaFaIaIaIazazazazazaIalalalazazaz
+alaIaIaKaFaIaFaFaFaFaFaFaIaFaKaIaIalazazazazazazazazazazazazazazazazazazazazazalalalazazaRazazazayayayaFaFaFaFayayayazaRazazazayalalalazazaz
+ataIaIaNaFaFaFaSaFaFaFaFaFaFaNaIaIatazazazazazazazazazazazazazazazazazazazazazatatalaHaHaHaHaHaHaHazazaFaFaFaFazazaHaHaHaHaHaHaHalatatazazaz
+adaTaIaQaIaUaFaFaFaFaFaFaUaIaQaIaTadaVaVaVaVaVazazazazazazazazazazazazazazazazadadataIaIaIaIaIaIaIazaHaFaFaFaFaHazaIaIaIaIaIaIaIatadadazazaz
+alalaIaIaIaNaFaFaFaFaFaWaNaIaIaIalataVaVaVaVaVaVazazazazazazazazazazazazazazazalaladaIaIaIaIaIaIaIaHaFaFaFaFaFaFaHaIaIaIaIaIaLaIadalalazazaz
+ayalaTaIaIaQaIaIaFaFaIaIaQaIaIaTalayazazazazaVaVaVazazazazazazazazazazazazazazalalalaIaIaIaLaIaIaIaFaFaFaFaFaFaFaFaIaIaIaIaIaIaIalalalazazaz
+azatalaTaIaIaXaIaFaFaIaLaIaIaTalatazazazazazaVaVaVazazazazazazazazazazazazazazatatalaTaTaIaIaIaIaFaFaFaFaFaFaFaFaFaFaIaIaIaIaTaTalalalazazaz
+azayatalaTaTaIaIaFaFaIaIaTaTalatayazazazazazaVaVaVazazazazazazazazazazazazazazayayalalalaTaIaIaIaIaIaIaFaFaFaFaIaIaIaIaIaIaTalalalatatazazaz
+azazayatatalaTaTaSaFaTaTalatatayazazazazazazaVaVaVazazazazazazazazazazazazaYazazazatalalalaTaTaIaIaKaIaFaFaFaFaIaKaIaIaTaTalalalatayayazazaz
+azazazayayatatalaFaFalatatayayazazazazazazazaVaVaVazazazazazazazazazazazazaZazazazayatatalalalaTaIaNaLaFaFaFaFaIaNaIaTalalalatatayazazazazaz
+azazazazazayayalaFaFalayayazazazazazazazazazaVaVaVazazazazazazazazazazazazbaazazazazayayatalalalaIbbaIaFaFaFaFaIbbaIalalalatayayazazazazazaz
+azazazazazazazataFaFatazazazazbcazazazazazazazaVaVazazazazazazazazazazazazazazazazazazazayalalalaIbdaIaFaFaFaFaIbdaIalalalayazazazazazazazaz
+azazazazazazazbeaFaFbeazazbfbgazazazazazazazazaVaVazazazazazazazazazazazazazazazazazazazazalalalaIaIaIaFaFaFaFaIaIaIalalalazazazazazazazazaz
+azazazazazazazaFaFaFaFazazazazazazaYazazazazazaVaVazazazazazazazazazazazazazazazazazbhazazalalalaIaIaIaFaFaFaFaIaIaIalalalazazazazaYazazazaz
+azazazbiazazbjaFaFaFaFbjazazazazazbaazazazazazaVaVazazazazazazazazazazazazazazazazazaZazazatalalaIaIaFaFaFaFaFaFaIaIalalatazazazazaZazazazaz
+azazazazazazbkalaFaFalbkazazazazazaZazazazazazaVaVazazazazazazazazazazazazazazazazazbaazazadatalaIaIaIaFaFaFaFaIaIaIalatadazazazazbaazazazaz
+azazazazazazblataFaFatblazazazaYazazazazazazaVaVaVazazazazazazazazazazazazazazazazazazazazaladalaIaKaFaFaFaFaFaFaKaIaladalazazazazazazazazaz
+azazazbhazazazbeaFaFbeazazazazbaazazazazazazaVaVaVazazazazazazazazazazazazazazazazazazazazalalalaTaNaIaFaFaFaFaIaNaTalalalazazazazazazazazaz
+azazazbaazazazaFaFaSaFazazaYazaZazazaYazazazaVaVaVazazazazazazazazazazazazbfbgazazazazaHaHalalalalbbaIaFaFaFaFaLbbalalalazazazazazazazazazaz
+azaYazaZazazbjaFaFaFaFbjazbaazazazazbaazazazaVaVaVazazazazazazazazazazazazazazazazazazalalalalalalbdaIaFaFaFaFaIbdalalalazazazazazazazazazaz
+azbaazazazazbkalaFaFalbkazaZazazazazaZazazazazaVaVaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHalalalalalataIaIaFaFaFaFaIaIalalalazazazazazazazazazaz
+azaZazazazazblataFaFatblazazazazazazazazazazazalalalalalalalalalalalalalalalalalalalalalalatatataCaIaIaFaFaFaFaIaIalalalazazazazazazazazazaz
+azazazazazazazbeaFaFbeazazazazazazazazazazazalalalalalalalalatatalalalalalalalalalalalatataCaCaCaIaIaFaFaFaFaFaFaIalalalazazazazazazazazazaz
+azazazazazazbjaFaFaFaFbjazazazazbjazazazazbjalalatauatatatatayayatatatatatatatauatatataCaCaIaIaIaIaIaIaFaFaFaFaIaIalalalazazazazazazazazazaz
+azazbfbgazazbkalaFaFalbkazazazazbkazazazazbkalalaCaDaCaCaCaCaAaAaCaCaCaCaCaCaCaDaCaCaCaIaIaFaIaIaIaIaIaFaFaFaFaIaIalalatazazbhazazazazazazaz
+azazazazazazblataFaFatblaHaHaHaHblaHaHaHaHblalalaIaFazaIaIaIazazaIaIaIaIazaIaIaIaIaIaIaIaIaFaFaIaIaIaIaFaFaFaFaLaIalatadazazaZazazazazazazaz
+azazazazbhazazbeaFaFbeatataSaFaFatataFaFatatatataIaFaFaIbmaFazazazaFaIaIaIaFaIaFaIaIaIaIaIaFaFaFaIaIaIaFaFaFaFaIaIaladalazazbaazazazazazazaz
+azazazazbaazazaFaFaFaFbebeaFaFaFbebeaFaSbebebebeaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaIaIalalalazazazazazazazazazaz
+azazazazaZazbjaSaFaFaFaUaFaFaSaFaUaFaFaFaFaUaFaFaFaFaFaFaFaFaFaFaFaFaSaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaIaIalalalazazazazazazazazazaz
+azazazazazazbkatataFaFbnataFaFaFbnataFaFatbnalalaIaFaFaIaIaFaIaIaIaFaIaIaIaFaIaFaIaIaIaIaIaFaFaFaIaIaIaIaIaIaIaIaIalalalazazazazazazazazazaz
+azazazazazazblayayayayblayayayayblayayayayblazalaIaFaIaLazaIaIazazaIaIaIaIaIaIaIaIaIaIaIaIaFaFaIaIaIaIaIaIaIaTaTaTalalalazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazalaTaTaTaTaTaTaTaHaHaHazaIaIaTaTaHaTaTaTaIaIaFaIaIaIaIaIaTaTaTalalalalatatazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazalalalalalalalalalalalazazaIalalalalalalaTaTaIaIaIaTaTaTalalalalalalatayayazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazatatatatatatatatalalatazazazatatatatalalalalaTaTaTalalalalalalatatatayazazazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazayayayayayayayayalatboazazaIadadadadatatalalalalalalalalatatatayayayazazazazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazalaCbpaIaIaIalalalalayayatatalalalatatatayayayazazazazazazazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazalbqaIaFaFaIalalalalazazayayatatatayayayazazazazazazazazazazazazazazazazazazaz
+aVaVaVazazazazazazazazazazazazazazazazazazazazazazazazazazazazalbraIaFaFbsalalalalazazazazayayayazazazazazazaYazazazazazazazazazazazazazazaz
+aVaVaVazazazazazazazazazazazazazazazazazazazazazaVaVaVaVazazaVataIaIaIaIbtalalalalazazazazazazazazazazazazazaZazazazazazazazazazazazazazazaz
+aVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVayataIbubvaIalalalalazazazazazazazazazazazazazbaazazazazazazazazazazazazazazaz
+azazaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVazayatbwbxaIatatatatazazazazazazazazazazazazazazazazazazazazazazazazazazazazaz
+azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazayatatatayayayayazazazazazazazazazazazazazazazazazazazazazazazazazazazazaz
+"}
+
+(1,1,2) = {"
+bybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybyby
+bybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybybyby
+azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaiaiaiaiai
+azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaiaiaiaiai
+azazazazazazazazazazazazaHaHaHazazazazazazazazazazazazazazazazazazazazazazazazazazbhazazazazazazazazazazazazazazazazazazazazazazazaiaiaiaiai
+azazazazazazazazazazazaHalalalaHazazazazazazazazazazazazazazazazazazazazazazazazazbaazazazazazazazazazazazazazazazazazazazazazazazaiaiaiaiai
+azazazazazazazazazazaHalalalalalaHazazazazazazazazazbzazazazazazbhazazazazazazazazaZazazazazazazazazazazazazazazazazazazazazazazazaiaiaiaiai
+azazazazazazaHaHaHaHalalatatatalalaHaHaHaHazazazazazazazazazazazbaazazazazazazazazazazazazazazazazazazazazazazazazazazaYazazazazazaiaiaiaiai
+azazazazazaHalalalalalataCaCaCatalalalalalaHazazazazazazazazazazaZazazazazazazazazazazazazazazazazazazazazbcazazazazazbaazazazazazaiaiaiaiai
+azazazazaHalalalalalataCazazazaCatalalalalalaHazazazazazaYazazazazazazazazazazazazazazazbiazazazazazazazazazbhazazazazaZazazazazazaiaiaiaiai
+azazaHaHalalatatatataCazazazazazaCatatatatalalaHaHazazazbaazazazazazazazbfbgazazazazazazazaYazazazazazazazazbaazazazazazazazazazazaiaiaiaiai
+azaHalalalataCaCbAaCazazazazazazazaCaCaCaCatalalalaHazazaZazazazazazazazazazazazazazazazazbaazazazazazazazazaZazazazazazazazazazazaiaiaiaiai
+azalalalataCbBbBazazazaIaIaIaIaIaIaIaIaIaIaCatalalalaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHbCaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHazazaiaiaiaiai
+azalatataCbBbBazazaIaIaIaXaIaIaIaIaIaIaIaIaIaCatatalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalazazaiaiaiaiai
+azalaCaCbBbBazazaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaCaCatalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalazazaiaiaiaiai
+azalazazbDazazbEaIaIaIaIaFaFaFaFaIaIaIaIaOaIaIaIaIaCalbFalbGalalalbFalbGalalalalbFalbGalalalbFalalalalalalalalalalalalalalalalazazaiaiaiaiai
+azalazazazazaIbdaIaIaFaFaFaFaFaFaFaFaIaIaIaIaIaIaFaIatbHatbIatatatbHatbIatatatatbHatbIatatatbHatatatatatatatatatatatatatalalalazazaiaiaiaiai
+aHatazazazazazaIaIaFaFbJbJaFaFaFaFaFaFaIaIaIaIaFaFaIaCaQaCaCaCaCaCaQaCbeaCaCbeaCaQaCaCaCaCaCaQaCaCaCaCaCaCaCaCaCaCaCaCaCalalalazazaiaiaiaiai
+alayazazazazazbubKaFaFbJbJaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaIaIaIaIalalalazazaiaiaiaiai
+alazazazbLazazbMbNaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaUaFaFaFaFaFaUaFaFaFaFaFaFaUaFaFaFaFaFaUaFaFaFaFaFaFaFaFaFaFaIaIaIalalalazazaiaiaiaiai
+atazazazazazazaIaFaIaFaIaIaFaFaFaFaFaFaFaFaFaFaFaFaFaFbOaFaFaFaFaFbOaFaFaFaFaFaFbOaFaFaFaFaFbOaFaFaFaFaFaFaFaFaFaFaFaIaIalalalazazaiaiaiaiai
+ayalazazazazazbEaIaIaIaIaIaIaFaFaFaFaFaFaFaIaIaFaFaIaTaQaTaTaTaTaTaQaTbPaTaTbPaTaQaTaTaTaTaTaQaIaIaIaIaFaFaFaFaFaFaFaIaIalalalazazaiaiaiaiai
+azalazazazazaIbdaIaIaIaIaIaIaFaFaFaFaFaFaIaIaIaIaFaIalalalalalalalalalalalalalalalalalalalalaIaIaIaIaIaFaFaFaFaFaFaFaIaIalalalazazaiaiaiaiai
+azalazazbDazazaIaIaIaIaFaIaFaFaFaFaFaFaIaIbQaIaIaIaTalalalalalalalalalalalalalalalalalalalalaIaIaIaIaIaFaFaFaFaFaFaIaIaIalalalazazaiaiaiaiai
+azalaTaTbBbBazazaIaIaFaFaFaFaFaFaFaFaIaIaIaIaIaTaTalayayayayayayayayayayayayayayayayayatatataIaIaIaIaIaFaFaFaFaFaIaIaIaIatatatazazaiaiaiaiai
+azayalalaTbBbBazazaIaIaIaIaIaIaPaIaIaIaIaIaIaTalalayazazazazazazazazazazazazazazazazazadadadaIaIaKaIaIaFaFaFaFaIaIaKaIaIadadadazazaiaiaiaiai
+aiazayayalaTbBbDazazazaIaIaIaIaIaIaIaIaIaIaTalayayazazaiaiaiaiaiaiaiaiaiaiaiaiaiaiazazalalalayayaNaIaFaFaFaFaFaFaIaNayayalalalazazaiaiaiaiai
+aiaiazazayalaTaTaTaTazazazazazazazaTaTaTaTalayazazazaiaiaiaiaiaiaiaiaiaiaiaibRaiaiazazalalalazazaQaIaIaFaFaFaFaIaIaQazazalalalazazaiaiaiaiai
+aiaiaiaiazayalalalalaTazazazazazaTalalalalayazaiaiaiaiaiaiaibRaiaiaiaiaiaiaibSaiaiazazalalalazazaIaIaFaFaFaFaFaFaIaIazazalalalazazaiaiaiaiai
+aiaiaiaiaiazayayayayalaTazazazaTalayayayayazaiaiaiaiaiaiaiaibSaiaiaiaiaiaiaibTaiaiazazalalalazazaIaIaIaFaFaFaFaIaIaIazazalalalazazaiaiaiaiai
+aiaiaiaiaiaiazazazazayalaTaTaTalayazazazazaiaiaiaiaiaiaiaiaibTaiaiaiaiaiaiaiaiaiaiazazalalalazazaIaIaIaFaFaFaFaIaIaIazazalalalazazaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiazayalalalayazaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazazalalalazazaIaIaIaFaFaFaFaIaIaIazazalalalazazaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiazayayayazaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazazalalalazazaIaIaIaFaFaFaFaIaIaIazazalalalazazaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiaiazazazaiaiaiaiaiaiaiaibRaiaiaiaiaiaiaiaiaiaiaiaiaibRaiaiaiazazalalalaHaHaIaIaIaFaFaFaFaIaIaIaHaHalalalazazaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibSaiaiaiaiaiaiaiaiaiaiaiaiaibSaiaiaiazazalatatajajaIaIaIaFaFaFaFaIaIaIajajatatalazazaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibTaiaiaiaiaiaiaiaiaiaiaiaiaibTaiaiaiaHazatadadaAaAaIaIaFaFaFaFaFaFaIaIaAaAadadatazaHaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazayalalazazaIaFaFaFaFaFaFaFaFaIazazalalayazaiaiaiaiaiai
+aiaibUbUbUbUbUbUbUbUbUbUbUbUaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazazalalazazaKaIaIaFaFaFaFaIaIaKazazalalazazaiaiaiaiaiai
+bUbUbVbWbWbWbWbWbWbWbWbWbWbXbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUazazalalazazaNaIaIaFaFaFaFaIaIaNazazalalazazaiaiaiaiaiai
+aaaaajajajajajajajajajajajajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaHazatalaHaHaQaIaIaFaFaFaFaIaIaQaHaHalatazaHaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazayatalaIaIaIaIaFaFaFaFaIaIaIaIalatayazaiaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazayatalaTaIaIaFaFaFaFaIaIaTalatayazaiaiaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazayatalaIaIaFaFaFaFaIaIalatayazaiaiaiaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazayalaIaFaFaFaFaFaFaIalayazaiaiaiaiaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaialaIaIaFaFaFaFaIaIalaiaiaiaiaiaiaiaiaiaiaiai
+aiaiajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaialaIaFaFaFaFaFaFaIalaiaiaiaiaiaiaiaiaiaiaiai
+bUbUajajajajajajajajajajajajbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUalaIaIaFaFaFaFaIaIalbUbUbUbUbUbUbUbUbUbUbUbU
+aaaaajajajajajajajajajajajajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalaIaFaFaFaFaIalaaaaaaaaaaaaaaaaaaaaaaaaaa
+bUbUajajajajajajajajajajajajbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUbUalalaFaFaFaFalalbUbUbUbUbUbUbUbUbUbUbUbUbU
+bYbYababababababababababababbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbPbPbPbPbYbYbYbYbYbYbYbYbYbYbYbYbYbYbY
+"}

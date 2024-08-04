@@ -1,0 +1,20 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "byond",
+			"request": "launch",
+			"name": "Launch in DreamSeeker",
+			"preLaunchTask": "Build - DM",
+			"dmb": "${workspaceFolder}/${command:CurrentDMB}"
+		},
+		{
+			"type": "byond",
+			"request": "launch",
+			"name": "Launch in DreamDaemon",
+			"preLaunchTask": "Build - DM",
+			"dmb": "${workspaceFolder}/${command:CurrentDMB}",
+			"dreamDaemon": true
+		}
+	]
+}

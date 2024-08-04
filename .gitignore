@@ -1,0 +1,25 @@
+### GAME ###
+
+# Game - Configuration
+/config
+!/config/example
+
+# Game - Data
+/data
+
+### BYOND ###
+
+# Ignore BYOND config
+/cfg
+
+# Ignore compiled artifacts
+*.dmb
+*.int
+*.lk
+*.rsc
+
+## todo: this is just crystal sagas bullshit
+## todo: saves/logs/etc should end in .sav and be in a data folder for static files.
+## Game - Ignore saves, logs, etc
+Ban Save
+/ChatLogs
